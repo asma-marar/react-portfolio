@@ -12,7 +12,7 @@ import React from 'react';
 function App() {
   return (
     <>
-      <HashRouter basename="/react-portfolio">
+      <HashRouter>
         <Navbar />
         <div>
           <Routes> 
