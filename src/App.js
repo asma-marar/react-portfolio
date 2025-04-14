@@ -12,11 +12,12 @@ import React from 'react';
 function App() {
   return (
     <>
-      <Router>
+      <Router basename="/react-portfolio">
         <Navbar />
         <div>
           <Routes> 
-          <Route path="/Home" element={<Home />} />
+            <Route path="/" element={<Home />} />
+            <Route path="/Home" element={<Home />} />
             <Route path="/Skills" element={<Skills />} />
             <Route path="/Projects" element={<Projects />} />
             <Route path="/Testimonials" element={<Testimonials />} />
