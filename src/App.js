@@ -6,13 +6,13 @@ import Testimonials from './component/Testimonials';
 import Projects from './component/Projects';
 import Contact from './component/Contact';
 import Home from './component/Home';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter, Routes, Route } from 'react-router-dom';
 import React from 'react';
 
 function App() {
   return (
     <>
-      <BrowserRouter basename="/react-portfolio">
+      <HashRouter basename="/react-portfolio">
         <Navbar />
         <div>
           <Routes> 
@@ -24,7 +24,7 @@ function App() {
             <Route path="/Contact" element={<Contact />} />
           </Routes>
         </div>
-      </BrowserRouter>
+      </HashRouter>
       <Footer />
     </>
   );
