@@ -2,6 +2,7 @@ import '../index.css'
 import bookifyImage from '../assets/images/bookify.png';
 import waqtImage from '../assets/images/waqt.png';
 import orangeImage from '../assets/images/orange.png';
+import masterPieaceImage from '../assets/images/masterpieace.png';
 
 
 function Projects(){
@@ -24,6 +25,12 @@ function Projects(){
           description: 'A Laravel and React project for community engagement with comments and likes.',
           img: orangeImage,
           link: 'https://github.com/asma-marar/Orang_Community_React_asma',
+        },
+        {
+          title: 'Lumi Pick',
+          description: 'A Laravel project for buying and selling products seamlessly. Unlike traditional platforms, sellers and buyers are the same user type—anyone can list items for sale or make purchases.',
+          img: masterPieaceImage,
+          link: 'https://github.com/asma-marar/masterpieace',
         },
       ];
     
