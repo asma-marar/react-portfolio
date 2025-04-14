@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.9326f32a.css",
-    "main.js": "/react-portfolio/static/js/main.78c9753e.js",
+    "main.js": "/react-portfolio/static/js/main.631c0428.js",
     "static/js/488.ca01759a.chunk.js": "/react-portfolio/static/js/488.ca01759a.chunk.js",
     "static/media/bookify.png": "/react-portfolio/static/media/bookify.6af4726959aeda8d92b0.png",
     "static/media/orange.png": "/react-portfolio/static/media/orange.0002fa92a8966eae4549.png",
     "static/media/waqt.png": "/react-portfolio/static/media/waqt.6210a044ad95b2d523ed.png",
     "static/media/fa-solid-900.ttf": "/react-portfolio/static/media/fa-solid-900.ad1782c70927ebc5bc87.ttf",
+    "static/media/masterpieace.png": "/react-portfolio/static/media/masterpieace.984cd0c0288b14c7e8a5.png",
     "static/media/fa-brands-400.ttf": "/react-portfolio/static/media/fa-brands-400.26b80c8830bebf340211.ttf",
     "static/media/fa-solid-900.woff2": "/react-portfolio/static/media/fa-solid-900.83a538a018a9e44b023a.woff2",
     "static/media/fa-brands-400.woff2": "/react-portfolio/static/media/fa-brands-400.fdbb558523a380307689.woff2",
@@ -19,11 +20,11 @@
     "static/media/fa-v4compatibility.woff2": "/react-portfolio/static/media/fa-v4compatibility.c3ea317a0f10f201597f.woff2",
     "index.html": "/react-portfolio/index.html",
     "main.9326f32a.css.map": "/react-portfolio/static/css/main.9326f32a.css.map",
-    "main.78c9753e.js.map": "/react-portfolio/static/js/main.78c9753e.js.map",
+    "main.631c0428.js.map": "/react-portfolio/static/js/main.631c0428.js.map",
     "488.ca01759a.chunk.js.map": "/react-portfolio/static/js/488.ca01759a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9326f32a.css",
-    "static/js/main.78c9753e.js"
+    "static/js/main.631c0428.js"
   ]
 }
