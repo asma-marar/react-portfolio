@@ -27,7 +27,7 @@ function Navbar() {
           <li><Link to="/Home" onClick={closeMenu}>Home</Link></li>
           <li><Link to="/Skills" onClick={closeMenu}>Skills</Link></li>
           <li><Link to="/Projects" onClick={closeMenu}>Projects</Link></li>
-          <li><Link to="/Testimonials" onClick={closeMenu}>Testimonials</Link></li>
+          {/* <li><Link to="/Testimonials" onClick={closeMenu}>Testimonials</Link></li> */}
           <li><Link to="/Contact" onClick={closeMenu}>Contact</Link></li>
         </ul>
       </div>
